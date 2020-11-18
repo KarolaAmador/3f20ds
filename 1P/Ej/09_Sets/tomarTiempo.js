@@ -2,7 +2,7 @@ console.time('Tiempo de ejecución');
 
 var nameSets = new Set(),
     name = "name",
-    n = 10, //10e4 , 10e5, 10e6
+    n = 100000, //10e4 , 10e5, 10e6
     nCompleto;
 
 while(nameSets.size < n){
