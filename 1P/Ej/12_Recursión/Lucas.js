@@ -1,4 +1,6 @@
-lucas=[1,3];
+//resuelto con arrays, no con series.
+
+lucas=[2,1];
 let x = 10;  
 
     sucLucas(2);
