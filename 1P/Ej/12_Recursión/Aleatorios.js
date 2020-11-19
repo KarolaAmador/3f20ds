@@ -1,3 +1,5 @@
+//Resuelto con arrays, no con series.
+
 let x = [];
 
 function aleatorio(){
